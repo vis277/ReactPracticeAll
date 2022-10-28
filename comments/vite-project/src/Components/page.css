@@ -1,0 +1,20 @@
+.image {
+  height: 400px;
+  width: 400px;
+}
+img {
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+}
+
+.pageZero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#one {
+  height: 20px;
+  width: 30px;
+}

@@ -1,0 +1,18 @@
+#root {
+}
+.container {
+  margin-left: 10em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+}
+.parent {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
